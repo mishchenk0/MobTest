@@ -1,7 +1,18 @@
+# ICH HABE NICHT GENÜGEND BUNTSTIFE, UM DIESES REPO ZU ERKLÄREN!
+
+
 bla bla bla tetstesttest
 Das ist ein Test.
 hallo welt
+<<<<<<< HEAD
 lalalallalalalal
 :)
+i
+
+
 
 kjdncskjdncksjdn
+=======
+
+awgawg
+>>>>>>> 7f7dee3ddf5f8fe92748ce7dc50aa4c8d9965610
