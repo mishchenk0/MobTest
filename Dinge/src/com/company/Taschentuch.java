@@ -1,9 +1,13 @@
 package com.company;
 
 public class Taschentuch {
-    private String T;
+    public String T;
 
     public Taschentuch() {
         this.T = "Taschentuch";
+    }
+    
+    public String get() {
+    	return this.T;
     }
 }

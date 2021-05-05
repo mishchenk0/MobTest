@@ -2,10 +2,14 @@ package com.company;
 
 public class Tasche<T> {
 
-    private T typ;
+    public T typ;
 
-    public Tasche(T typ) {
-        this.typ = typ;
+    public Tasche(Object typ) {
+        typ = typ;
+    }
+    
+    public String getType() {
+    	return typ.ge;
     }
 
 }
