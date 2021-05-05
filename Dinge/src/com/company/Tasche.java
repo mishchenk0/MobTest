@@ -4,12 +4,8 @@ public class Tasche<T> {
 
     public T typ;
 
-    public Tasche(Object typ) {
-        typ = typ;
-    }
-    
-    public String getType() {
-    	return typ.ge;
+    public Tasche(T typ) {
+        this.typ = typ;
     }
 
 }

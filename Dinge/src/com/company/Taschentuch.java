@@ -6,8 +6,5 @@ public class Taschentuch {
     public Taschentuch() {
         this.T = "Taschentuch";
     }
-    
-    public String get() {
-    	return this.T;
-    }
+
 }

@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Hose<Taschentuch, Portemonnaie> hose = new Hose<>();
         hose.inDieLinkeTaschePacken(new Taschentuch());
-        System.out.println(hose); // links: Taschentuch, rechts: leer
+        System.out.println("Links" + hose.Links.typ); // links: Taschentuch, rechts: leer
 
         //System.out.println(hose.GetT());
 
@@ -13,8 +13,6 @@ public class Main {
         //System.out.println(hose.GetT());
         
         hose.inDieRechteTaschePacken(new Portemonnaie());
-        System.out.println(hose.GetP());
-        System.out.println(hose.GetT());        
         
 
         // kompiliert nicht

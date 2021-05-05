@@ -1,15 +1,10 @@
 package com.company;
 
-public class Portemonnaie extends Tasche<Object>{
+public class Portemonnaie {
     public String P;
 
     public Portemonnaie() {
     	this.P = "Portemonnaie";
-    	super(P);
-        
     }
-    
-    public String get() {
-    	return this.P;
-    }
+
 }
