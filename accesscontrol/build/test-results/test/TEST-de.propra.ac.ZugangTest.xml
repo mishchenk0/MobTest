@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.propra.ac.ZugangTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-15T18:21:10" hostname="MacBook-Pro-Nadezhda.local" time="0.604">
+  <properties/>
+  <testcase name="Test10Minuten()" classname="de.propra.ac.ZugangTest" time="0.604"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

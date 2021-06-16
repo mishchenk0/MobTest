@@ -1,0 +1,14 @@
+de/propra/ac/scanner/Scanner.java
+ de.propra.ac.scanner.Scanner
+de/propra/ac/network/Netzwerk.java
+ de.propra.ac.network.Netzwerk
+de/propra/ac/scanner/PersonCategory.java
+ de.propra.ac.scanner.PersonCategory
+de/propra/ac/network/Action.java
+ de.propra.ac.network.Action
+de/propra/ac/Zugangspunkt.java
+ de.propra.ac.Zugangspunkt
+ de.propra.ac.Zugangspunkt$1
+ de.propra.ac.Zugangspunkt$NetzwerkReceive
+de/propra/ac/Zugangskontrolle.java
+ de.propra.ac.Zugangskontrolle

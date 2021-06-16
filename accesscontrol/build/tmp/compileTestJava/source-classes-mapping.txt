@@ -1,0 +1,2 @@
+de/propra/ac/ZugangTest.java
+ de.propra.ac.ZugangTest
